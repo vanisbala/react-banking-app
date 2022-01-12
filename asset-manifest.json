@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-banking-app/static/css/main.6e7718e9.css",
+    "main.js": "/react-banking-app/static/js/main.118b5403.js",
+    "index.html": "/react-banking-app/index.html",
+    "main.6e7718e9.css.map": "/react-banking-app/static/css/main.6e7718e9.css.map",
+    "main.118b5403.js.map": "/react-banking-app/static/js/main.118b5403.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e7718e9.css",
+    "static/js/main.118b5403.js"
+  ]
+}
